@@ -1,0 +1,22 @@
+{
+  "name": "scrollspy-soup",
+  "version": "1.0.0",
+  "description": "Abstract class for handling and listening scroll position events",
+  "main": "ScrollSpy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tony-durden/scrollspy.git"
+  },
+  "keywords": [
+    "scroll"
+  ],
+  "author": "Tony Durden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tony-durden/scrollspy/issues"
+  },
+  "homepage": "https://github.com/tony-durden/scrollspy#readme"
+}
