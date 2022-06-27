@@ -1,4 +1,4 @@
-exports.ScrollSpy = class ScrollSpy {
+class ScrollSpy {
 	container;
 	links;
 	sections;
@@ -89,3 +89,5 @@ exports.ScrollSpy = class ScrollSpy {
 		window.removeEventListener('scroll', this.onScroll.bind(this));
 	}
 };
+
+export {ScrollSpy};
